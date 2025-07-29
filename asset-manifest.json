@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rohit-personal-site/static/css/main.26e82445.css",
+    "main.js": "/rohit-personal-site/static/js/main.ba00e066.js",
+    "static/js/453.670e15c7.chunk.js": "/rohit-personal-site/static/js/453.670e15c7.chunk.js",
+    "index.html": "/rohit-personal-site/index.html",
+    "main.26e82445.css.map": "/rohit-personal-site/static/css/main.26e82445.css.map",
+    "main.ba00e066.js.map": "/rohit-personal-site/static/js/main.ba00e066.js.map",
+    "453.670e15c7.chunk.js.map": "/rohit-personal-site/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26e82445.css",
+    "static/js/main.ba00e066.js"
+  ]
+}
