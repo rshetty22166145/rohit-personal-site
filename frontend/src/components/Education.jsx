@@ -28,7 +28,7 @@ const Education = () => (
     <div>
       <div className="flex items-start space-x-6 bg-gray-900 p-6 rounded-lg border border-gray-700 hover:border-green-500 transition-all max-w-full">
         <img
-          src={education.logo}
+          src={process.env.PUBLIC_URL + education.logo}
           alt="University of Toronto Logo"
           className="w-16 h-16 object-contain rounded-md mt-1"
         />

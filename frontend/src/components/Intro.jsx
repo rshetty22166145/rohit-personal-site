@@ -6,7 +6,7 @@ const Intro = () => (
     className="min-h-screen flex flex-col justify-center items-center p-8 text-center bg-black border-b border-gray-700"
   >
     <img
-      src="/images/rohit.jpg"
+      src={process.env.PUBLIC_URL + '/images/rohit.jpg'}
       alt="Rohit Shetty"
       className="w-56 h-56 rounded-full mb-6 border-4 border-green-500 shadow-xl object-cover"
     />

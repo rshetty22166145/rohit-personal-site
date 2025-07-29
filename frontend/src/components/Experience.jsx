@@ -49,7 +49,7 @@ const Experience = () => (
           className="flex space-x-6 bg-gray-900 p-6 rounded-lg border border-gray-700 hover:border-green-500 transition-all"
         >
           <img
-            src={logo}
+            src={process.env.PUBLIC_URL + logo}
             alt={`${company} logo`}
             className="w-14 h-14 object-contain rounded-md"
           />
